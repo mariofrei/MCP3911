@@ -10,9 +10,7 @@ to be overwritten.
 
 Examples are available for Arduino and STM32.
 
-For more info see Microchip datasheet
-
-http://ww1.microchip.com/downloads/en/DeviceDoc/20002286C.pdf
+For more info see Microchip datasheet: http://ww1.microchip.com/downloads/en/DeviceDoc/20002286C.pdf
 
 
 
